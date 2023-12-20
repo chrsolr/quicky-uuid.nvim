@@ -7,8 +7,8 @@ note: This doesn't guarantee uniqueness.
 
 Lazy.nvim
 
-```
+```lua
 {
-  'chrsolr/quicky-uuid`
+  'chrsolr/quicky-uuid'
 }
 ```
