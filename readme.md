@@ -8,7 +8,7 @@ UUID code was taken from [Link](https://gist.github.com/jrus/3197011).
 
 ***Note #1***: This doesn't guarantee uniqueness. Please read the comments in the above link.
 
-***Disclaimer***: This plugin was create for learning purposes and for my specific use case. please do not consider using other methods.
+***Disclaimer***: This plugin was created for learning purposes and for my specific use case. Please consider using other methods.
 
 
 ### Install
